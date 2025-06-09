@@ -1,1 +1,2 @@
 Flask==2.3.3
+pip install Flask psycopg2-binary
